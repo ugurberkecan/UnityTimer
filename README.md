@@ -12,6 +12,6 @@ UnityTimer is an easy editable simple plugin.
   
 ## Installation
 
-Just download and import your unity file. You can watch the installation video [here](https://youtube.com/cengturkey).
+Just download and import your unity file. You can watch the installation video [here](https://youtu.be/olUu6B6TBao).
 
 
